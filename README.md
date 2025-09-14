@@ -22,17 +22,6 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 
 ---
 
-
-## 📌 Certifications   
-
-- 🤖 ![AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/2bcedd71-0b4f-47b1-b2c4-1b7d26d76924)
-- 🤖 ![Itaú - Professional Data Engineering](https://www.credly.com/earner/earned/badge/83e79fa7-ddf8-4307-a3eb-1380a954e03a)
-
-- ![All my Credly Badges](https://www.credly.com/users/pablosls/badges#credly)
-- ![All my Google Cloud Skills Boost badges]([https://www.credly.com/users/pablosls/badges#credly](https://www.cloudskillsboost.google/profile/badges))
-
----
-
 ## 📌 Interests  
 
 - 🤖 **Multi-Agent Systems** – collaborative architectures with LangGraph/CrewAI  
@@ -40,6 +29,14 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 - 📊 **Finance & Data Analytics** – investment simulations, inflation, salary vs cost of living  
 - 💻 **Local LLM Computing** – experiments with Ollama & LM Studio for offline AI  
 ---
+
+## 📌 My Certifications and Badges
+
+- [AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/2bcedd71-0b4f-47b1-b2c4-1b7d26d76924)
+- [Itaú - Professional Data Engineering](https://www.credly.com/earner/earned/badge/83e79fa7-ddf8-4307-a3eb-1380a954e03a)
+
+- [All my Credly Badges](https://www.credly.com/users/pablosls/badges#credly)
+- [All my Google Cloud Skills Boost badges](https://www.cloudskillsboost.google/profile/badges)
 
 ## 📈 GitHub Stats  
 
