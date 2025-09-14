@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pablo Santos  
+# 👋 Hi, I'm Pablo Santos 👋
 
 With 15+ years of experience in **Data and Software Engineering**, I specialize in building **cloud-native data platforms** and **Machine Learning/AI solutions** at scale. 
 
@@ -11,13 +11,11 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 ## 🔧 Tech Stack  
 
 - **Languages**: Python, SQL, Bash, Java  
-- **Cloud Providers**: AWS & GCP (Google Cloud Platform)  
-- **AWS ML Services**: SageMaker, Bedrock  
-- **GCP ML Services**: Vertex AI, BigQuery, Colab, AgentSpace, Composer (Airflow)  
-- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn, XGBoost  
+- **Amazon AWS**: SageMaker, Bedrock, Lambda, Glue, EMR, Kinesis, Athena, S3, ECS  
+- **GCP**: Vertex AI, BigQuery, Colab, AgentSpace, Composer (Airflow)  
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, XGBoost  
 - **LLMs & Agents**: LangChain, LangGraph, CrewAI, RAG, Embeddings, Vector Datases, MCP, A2A, ADK, RAGAS. 
-- **AWS Data Engineering**: Glue, EMR, Kinesis, Athena, S3, ECS, PySpark  
-- **Orchestration & Workflow**: Airflow, Kubernetes  
+- **Orchestration & Workflow**: Airflow, Kubernetes, Spark, Pyspark. 
 - **DevOps & Infra**: Docker, Terraform, GitHub Actions, CI/CD  
 
 ---
@@ -27,10 +25,9 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 - 🤖 **Multi-Agent Systems** – collaborative architectures with LangGraph/CrewAI  
 - 🔍 **LLM Observability** – prompt monitoring, evaluation metrics, guardrails  
 - 📊 **Finance & Data Analytics** – investment simulations, inflation, salary vs cost of living  
-- 💻 **Local LLM Computing** – experiments with Ollama & LM Studio for offline AI  
 ---
 
-## 📌 My Certifications and Badges
+## ⭐️ My Certifications and Badges
 
 - [AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/2bcedd71-0b4f-47b1-b2c4-1b7d26d76924)
 - [Itaú - Professional Data Engineering](https://www.credly.com/badges/83e79fa7-ddf8-4307-a3eb-1380a954e03a)
@@ -49,8 +46,7 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablobrasil/)  
 - 🐙 [GitHub](https://github.com/pablosls)  
-- ✍️ [Articles & Content](#)  
 
 ---
 
-⭐️ _Always exploring how to merge **data engineering, generative AI, and distributed systems** to create scalable, intelligent, and creative solutions._
+⭐️ _Always exploring how to merge **Machine learning, data, software engineering, generative AI, and distributed systems** to create scalable, intelligent, and creative solutions._
