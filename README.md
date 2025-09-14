@@ -22,9 +22,11 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 
 ## 📌 Interests  
 
-- 🤖 **Multi-Agent Systems** – collaborative architectures with LangGraph/CrewAI  
-- 🔍 **LLM Observability** – prompt monitoring, evaluation metrics, guardrails  
-- 📊 **Finance & Data Analytics** – investment simulations, inflation, salary vs cost of living  
+- 🤖 **Multi-Agent Systems** – collaborative architectures, advanced architectures involving Small-Large Models (sLM), retrieving, memory, and context management.
+- 🔍 **LLM Observability** – prompt monitoring, evaluation metrics, performance, guardrails. 
+- 📊 **Finance & Advanced Analytics** – Recommendation systems, reinvestment simulations, stocks, inflation, salary vs cost of living.
+- 📊 **Neural Networks** – Deep learning, Reforcement learning, GPU Parallel Processing, High-performance computing, CUDA/NVIDIA. 
+
 ---
 
 ## ⭐️ My Certifications and Badges
