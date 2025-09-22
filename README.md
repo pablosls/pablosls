@@ -14,7 +14,7 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 - **Amazon AWS**: SageMaker, Bedrock, Lambda, Glue, EMR, Kinesis, Athena, S3, ECS  
 - **GCP**: Vertex AI, BigQuery, Colab, AgentSpace, Composer (Airflow)  
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, XGBoost  
-- **LLMs & Agents**: LangChain, LangGraph, CrewAI, RAG, Embeddings, Vector Datases, MCP, A2A, ADK, RAGAS. 
+- **LLMs & Agents**: LangChain, LangGraph, Google ADK, RAG, Embeddings, Vector Datases, MCP, A2A.
 - **Orchestration & Workflow**: Airflow, Kubernetes, Spark, Pyspark. 
 - **DevOps & Infra**: Docker, Terraform, GitHub Actions, CI/CD  
 
