@@ -35,7 +35,7 @@ My work combines **data engineering**, **machine learning**, **MLOps**, **genera
 - [Itaú - Professional Data Engineering](https://www.credly.com/badges/83e79fa7-ddf8-4307-a3eb-1380a954e03a)
 
 - [All my Credly Badges](https://www.credly.com/users/pablosls/badges#credly)
-- [All my Google Cloud Skills Boost badges]([https://www.cloudskillsboost.google/profile/badges](https://www.cloudskillsboost.google/public_profiles/75202415-fbc9-43c5-985e-cfda12cb99ec))
+- [All my Google Cloud Skills Boost badges](https://www.cloudskillsboost.google/public_profiles/75202415-fbc9-43c5-985e-cfda12cb99ec)
 
 ## 📈 GitHub Stats  
 
