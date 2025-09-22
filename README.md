@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Pablo Santos 👋
 
-With 15+ years of experience in **Data and Software Engineering**, I specialize in building **cloud-native data platforms** and **Machine Learning/AI solutions** at scale. 
+With 15+ years of experience in **Technology**, I specialize in building scalable **Data and AI-driven Machine Learning solutions**.
 
 🚀 Currently, I work at **Itaú Unibanco** as a **Senior Machine Learning Engineer**, where I focus on delivering robust, scalable, and intelligent AI systems.  
 
-My work combines **data engineering**, **machine learning**, **MLOps**, **generative models**, and **intelligent agents**, always with a strong focus on **observability, automation, and performance**.  
+My work combines **software/data engineering** **machine learning**, **MLOps**, **generative ai models**, and **intelligent agents**, always with a strong focus on **observability, automation, and performance**.  
 
 ---
 
