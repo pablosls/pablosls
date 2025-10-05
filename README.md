@@ -10,11 +10,11 @@ My work combines **software/data engineering**, **machine learning**, **MLOps**,
 
 ## 🔧 Tech Stack  
 
-- **Languages**: Python, SQL, Bash, Java  
-- **Amazon AWS**: SageMaker, Bedrock, Lambda, Glue, EMR, Kinesis, Athena, S3, ECS  
-- **GCP**: Vertex AI, BigQuery, Colab, AgentSpace, Composer (Airflow)  
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, XGBoost  
+- **Languages**: Python, SQL, Bash, Java
 - **LLMs & Agents**: LangChain, LangGraph, Google ADK, RAG, Embeddings, Vector Datases, MCP, A2A.
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, XGBoost  
+- **Amazon AWS**: SageMaker, Bedrock, Lambda, Glue, EMR, Kinesis, Athena, S3, ECS  
+- **GCP**: Vertex AI, BigQuery, Colab, AgentSpace, ADK. 
 - **Orchestration & Workflow**: Airflow, Kubernetes, Spark, Pyspark. 
 - **DevOps & Infra**: Docker, Terraform, GitHub Actions, CI/CD  
 
