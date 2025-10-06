@@ -2,7 +2,7 @@
 
 With 15+ years of experience in **Technology**, I specialize in building scalable **Data and AI-driven Machine Learning solutions**.
 
-🚀 Currently, I work at **Itaú Unibanco** as a **Senior Machine Learning Engineer**, where I focus on delivering robust, scalable, and intelligent AI systems.  
+🚀 Currently, I work at **Itaú Unibanco** as a **Machine Learning Engineer**, where I focus on delivering robust, scalable, and intelligent AI systems.  
 
 My work combines **software/data engineering**, **machine learning**, **MLOps**, **generative ai models**, and **intelligent agents**. Always with a strong focus on **performance, automation, and observability**.  
 
